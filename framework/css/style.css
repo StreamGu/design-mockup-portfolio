@@ -1,13 +1,11 @@
-.title {
+.color_1 {
 	color: #2d3c49;
 }
-#logo {
-	width: 100px;
-	height:100px;
-}
-.title2 {
+.color_2 {
 	color: #7d97ad;
 }
-.featured {
-	color: #2d3c49;
+.logo {
+	margin-top: 20px;
+	width: 100px;
+	height:100px;
 }
